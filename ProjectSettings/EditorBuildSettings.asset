@@ -48,12 +48,15 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scene 1.unity
+    path: Assets/1SceneBrouillard.unity
     guid: 6cc3ab44aa437584f8b2092d92afd9d2
   - enabled: 1
-    path: Assets/Scene 2.unity
+    path: Assets/2SceneEnigmes.unity
     guid: f6e8282c123e2c14dbe72027f8c7a830
   - enabled: 1
     path: Assets/Scene 3.unity
     guid: d99d05a5bb61dd7408c16fea2787dc41
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/3SceneBoss.unity
+    guid: fcd8b28d7f2771747a278c6d0ace1e51
   m_configObjects: {}
